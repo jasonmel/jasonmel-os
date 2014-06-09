@@ -3,8 +3,8 @@ jasonmel-os
 
 A tiny operating system
 
-## Compile
-To create an floppy disc image, use <code>make</code>. A floppy disc image fd.img will be created.
+## How to build
+To create a floppy disc image, use <code>make</code>. An image fd.img will be created.
 To clean all the image files, use <code>make clean</code>.
 
 ## For more information
