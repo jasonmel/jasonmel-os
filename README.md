@@ -1,7 +1,7 @@
 jasonmel-os
 ===========
 
-A tiny operating system
+A tiny operating system.
 
 ## How to build
 To create a floppy disc image, use <code>make</code>. An image fd.img will be created.
